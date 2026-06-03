@@ -162,9 +162,7 @@ jupyter notebook
 
 **Roshan Onkar Marathe**
 
-Python Developer | AI Enthusiast | Data Analytics Learner
-
-GitHub: https://github.com/yourusername
+AI/ML Data Scinece
 
 ---
 
